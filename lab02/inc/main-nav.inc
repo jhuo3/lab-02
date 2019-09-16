@@ -1,4 +1,4 @@
-<nav>
+<nav class="main">
 	<ul>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="jialin.php">Jialin Huo</a></li>

@@ -12,10 +12,16 @@
 
 		<header>
 			<a href="index.php">
-				<h1>Team Seattle - Lab 02</h1>
+				<h1 class="homeh1">Team Seattle - Lab 02</h1>
 				<img src="images/seattle.jpg" alt="Seattle">
 			</a>
 		</header>
+
+		<main>
+			<p>Hello World! We are Team Seattle. Jennifer Ngene is our Information Architect, Junting Chen is our Visual Designer, and Jialin Huo is our Technical Coder. Click on the links to learn more about us.</p>
+		</main>
+
+	</body>
 
 <?php include "inc/main-nav.inc"; ?>
 

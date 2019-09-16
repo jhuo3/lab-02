@@ -12,7 +12,7 @@
 
 		<header>
 			<a href="jialin.php">
-				<h1>Jialin Huo</h1>
+				<h1 class="jhh1">Jialin Huo</h1>
 				<img src="images/jialin.jpeg" alt="Jialin Huo">
 			</a>
 		</header>
